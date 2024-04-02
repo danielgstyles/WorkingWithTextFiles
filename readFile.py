@@ -1,5 +1,5 @@
 file = open("exampleText.txt", "r") 
 contents = file.read()
-#text = file.readline()
+#contents = file.readline()
 file.close
 print(contents)
