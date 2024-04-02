@@ -1,0 +1,6 @@
+Hello this
+is an 
+example of
+a text file that
+can be read 
+and written to.
